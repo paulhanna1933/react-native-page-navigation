@@ -1,11 +1,12 @@
-![Alt text](https://monosnap.com/file/WUdAW0Orx5vhoPew7jU8sfGQ8AfufN.png)
-![Alt text](https://monosnap.com/file/xzwP6NWXT9kjcp7yhpNLRWqqIbqtMc.png)
+![Alt text](https://monosnap.com/file/LxhckGYJCkHJ9NwCuwz1afeEX3XQLL.png)
+![Alt text](https://monosnap.com/file/OMNDnBHoQOr1MYe6UPrTtFmqm8ebVD.png)
 
-# Movie Search App
-A React Native movie search app using create-react-native-app
+# React Native Page Navigation
+A quick example app showcasing react-navigation using StackNavigator
 
 # Tools
 * create-react-native-app cli
+* StackNavigator from 'react-navigation'
 
 # Start App
 Clone repo, install, cd into folder and run:
